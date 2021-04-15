@@ -21,7 +21,7 @@
 
 4.[Description of variables]()
 
-  - Personality Traits
+  - [Personality Traits]()
     - id
     - grade_2012
     - grade_2017
