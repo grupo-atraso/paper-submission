@@ -10,7 +10,7 @@
 
 1.Getting Started
 
-  - [Resumo]()
+  - [Summary]()
   - [Importância do trabalho]()
   - [Objetivos do projeto]()
   - [Etapas concluidas e a concluir]()
@@ -75,7 +75,7 @@ In this project we used a rich dataset of the schooling system in Sertãozinho (
 ## Description of variables
 
 
-## id
+- id
 
 Description: An unique number that characterize a single individual of the survey. Some ids are missing, probably people who were excluded from the survey by some criteria.
 
@@ -88,7 +88,7 @@ its factors: numbers between 1 and 5311
 
 
 
-## grade_2012
+- grade_2012
 Description: which grade the student was in 2012
 
 It is a discrete variable.
@@ -98,7 +98,7 @@ its factors: 4, 5 or 6
 
 
 
-## grade_2017
+- grade_2017
 description: Which grade the student was in 2017
 
 It is a discrete variable.
