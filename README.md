@@ -224,7 +224,9 @@ In the article we define three distinct feature groups: Personality traits, Non 
    - lang_2012, math_2012
      
         Description: The tests scores were standardized to have null mean and unit standard deviation in 2012 among those students who form our actual sample.
+        
         lang_2012: Language test taken in 2012
+        
         math_2012: Math test taken in 2012
 
         It is a continuous variable.
