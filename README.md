@@ -25,7 +25,7 @@
 
   - [Non personality Traits](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#non-personality-traits)
     
-  - [Personality traits]()
+  - [Personality traits](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#personality-traits)
     
 
 ## Summary
