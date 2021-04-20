@@ -11,7 +11,7 @@
 1.[Summary](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#summary)
 
 
-2.[Main results]()
+2.[Main results](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#main-results)
 
 
 
