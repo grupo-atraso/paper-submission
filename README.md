@@ -16,7 +16,7 @@
 
 
 
-3.[Description of notebooks]()
+3.[Description of notebooks](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#description-of-notebooks)
   
   
 
