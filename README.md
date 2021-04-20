@@ -23,7 +23,7 @@
 
 4.[Description of variables](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#description-of-variables)
 
-  - [Non personality Traits]()
+  - [Non personality Traits](https://github.com/grupo-atraso/paper-submission/blob/main/README.md#non-personality-traits)
     
   - [Personality traits]()
     
